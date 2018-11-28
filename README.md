@@ -1,2 +1,2 @@
 # bilinear_interpolation
-magnify image with numpy
+Magnify image without any image processing library
